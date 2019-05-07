@@ -1,0 +1,7 @@
+<launch>
+    <node pkg = "action_recognition" name = "action_recognition" type = "eval_cnn_block_frame_flow.py" output="screen" />
+    <param name="/action_recognition/model_dir" value="/data/model_epoch46.chkpt"  />
+    <param name="/action_recognition/meanimage_which" value="dev"   />
+    <param name="/action_recognition/use_cuda" value="True"  />
+    <param name="/action_recognition/block_num" value="5"   />
+</launch>
