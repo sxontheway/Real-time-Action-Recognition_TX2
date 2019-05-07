@@ -57,3 +57,12 @@ I use the model `CNN on block of frames + optical flow`. Go to [evaluation direc
 
 ### Video capturing
 See: http://petermoran.org/csi-cameras-on-tx2/. This works for the TX2 onboard camera as well as other CSI cameras.
+
+### Predictions generation
+<p align="left">
+	<img src="./prediction.jpg" width="420" height="350" >
+</p>
+
+### Others
+Make sure that every scipt obtains the execution permission before running them.
+
