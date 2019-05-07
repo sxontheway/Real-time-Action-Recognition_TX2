@@ -11,7 +11,7 @@ KTH dataset = 25 people* 4 scenarios* 6 actions = 600 video clips. Each video cl
 * During the second try of training, sets allocation is:  
   TEST_PEOPLE_ID = [5, 10, 15, 20, 25]  
   TRAIN_PEOPLE_ID = the remaining 20 sets  
-  > Finally, I choose the model trained for 46 epoches to do the following evaluation.
+  > Finally, I choose the model trained for 46 epoches in this try to do the following evaluation.
 
 ## Evaluation
 To evaluate: `python3 ./eval_cnn_block_frame_flow.py`
