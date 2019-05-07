@@ -1,0 +1,951 @@
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+120/191 correct
+Accuracy: 0.628272251
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+130/191 correct
+Accuracy: 0.680628272
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+144/191 correct
+Accuracy: 0.753926702
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+141/191 correct
+Accuracy: 0.738219895
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+143/191 correct
+Accuracy: 0.748691099
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+156/191 correct
+Accuracy: 0.816753927
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+145/191 correct
+Accuracy: 0.759162304
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+166/191 correct
+Accuracy: 0.869109948
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+152/191 correct
+Accuracy: 0.795811518
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+170/191 correct
+Accuracy: 0.890052356
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+168/191 correct
+Accuracy: 0.879581152
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+180/191 correct
+Accuracy: 0.942408377
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+176/191 correct
+Accuracy: 0.921465969
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+182/191 correct
+Accuracy: 0.952879581
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+177/191 correct
+Accuracy: 0.926701571
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+178/191 correct
+Accuracy: 0.931937173
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+178/191 correct
+Accuracy: 0.931937173
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+186/191 correct
+Accuracy: 0.973821990
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+180/191 correct
+Accuracy: 0.942408377
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+183/191 correct
+Accuracy: 0.958115183
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+179/191 correct
+Accuracy: 0.937172775
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+181/191 correct
+Accuracy: 0.947643979
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+189/191 correct
+Accuracy: 0.989528796
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+183/191 correct
+Accuracy: 0.958115183
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+186/191 correct
+Accuracy: 0.973821990
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+186/191 correct
+Accuracy: 0.973821990
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+184/191 correct
+Accuracy: 0.963350785
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+189/191 correct
+Accuracy: 0.989528796
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+186/191 correct
+Accuracy: 0.973821990
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+190/191 correct
+Accuracy: 0.994764398
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+182/191 correct
+Accuracy: 0.952879581
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+185/191 correct
+Accuracy: 0.968586387
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+191/191 correct
+Accuracy: 1.000000000
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+189/191 correct
+Accuracy: 0.989528796
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+190/191 correct
+Accuracy: 0.994764398
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+191/191 correct
+Accuracy: 1.000000000
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+189/191 correct
+Accuracy: 0.989528796
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+191/191 correct
+Accuracy: 1.000000000
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+188/191 correct
+Accuracy: 0.984293194
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+190/191 correct
+Accuracy: 0.994764398
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+189/191 correct
+Accuracy: 0.989528796
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+190/191 correct
+Accuracy: 0.994764398
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+191/191 correct
+Accuracy: 1.000000000
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+190/191 correct
+Accuracy: 0.994764398
+
+
+Loading dataset
+Loading model
+Done 50/191 videos
+Done 100/191 videos
+Done 150/191 videos
+191/191 correct
+Accuracy: 1.000000000
+
+
+----------------
+----------------
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+116/216 correct
+Accuracy: 0.537037037
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+136/216 correct
+Accuracy: 0.629629630
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+147/216 correct
+Accuracy: 0.680555556
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+153/216 correct
+Accuracy: 0.708333333
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+155/216 correct
+Accuracy: 0.717592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+157/216 correct
+Accuracy: 0.726851852
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+137/216 correct
+Accuracy: 0.634259259
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+165/216 correct
+Accuracy: 0.763888889
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+161/216 correct
+Accuracy: 0.745370370
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+171/216 correct
+Accuracy: 0.791666667
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+^ADone 150/216 videos
+Done 200/216 videos
+167/216 correct
+Accuracy: 0.773148148
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+175/216 correct
+Accuracy: 0.810185185
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+171/216 correct
+Accuracy: 0.791666667
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+175/216 correct
+Accuracy: 0.810185185
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+171/216 correct
+Accuracy: 0.791666667
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+172/216 correct
+Accuracy: 0.796296296
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+165/216 correct
+Accuracy: 0.763888889
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+176/216 correct
+Accuracy: 0.814814815
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+168/216 correct
+Accuracy: 0.777777778
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+173/216 correct
+Accuracy: 0.800925926
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+173/216 correct
+Accuracy: 0.800925926
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+174/216 correct
+Accuracy: 0.805555556
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+178/216 correct
+Accuracy: 0.824074074
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+175/216 correct
+Accuracy: 0.810185185
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+174/216 correct
+Accuracy: 0.805555556
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+183/216 correct
+Accuracy: 0.847222222
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+172/216 correct
+Accuracy: 0.796296296
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+171/216 correct
+Accuracy: 0.791666667
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+181/216 correct
+Accuracy: 0.837962963
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+177/216 correct
+Accuracy: 0.819444444
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+177/216 correct
+Accuracy: 0.819444444
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+182/216 correct
+Accuracy: 0.842592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+183/216 correct
+Accuracy: 0.847222222
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+179/216 correct
+Accuracy: 0.828703704
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+175/216 correct
+Accuracy: 0.810185185
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+182/216 correct
+Accuracy: 0.842592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+182/216 correct
+Accuracy: 0.842592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+174/216 correct
+Accuracy: 0.805555556
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+182/216 correct
+Accuracy: 0.842592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+180/216 correct
+Accuracy: 0.833333333
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+184/216 correct
+Accuracy: 0.851851852
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+176/216 correct
+Accuracy: 0.814814815
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+182/216 correct
+Accuracy: 0.842592593
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+177/216 correct
+Accuracy: 0.819444444
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+185/216 correct
+Accuracy: 0.856481481
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+179/216 correct
+Accuracy: 0.828703704
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+185/216 correct
+Accuracy: 0.856481481
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+180/216 correct
+Accuracy: 0.833333333
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+186/216 correct
+Accuracy: 0.861111111
+
+
+Loading dataset
+Loading model
+Done 50/216 videos
+Done 100/216 videos
+Done 150/216 videos
+Done 200/216 videos
+186/216 correct
+Accuracy: 0.861111111
+
