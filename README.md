@@ -29,7 +29,7 @@ The ROS build-in cv2/cv_bridge are both python2-based but torch needs python3. T
   #!/usr/bin/env python3
   import sys, os
   ros_path = '/opt/ros/kinetic/lib/python2.7/dist-packages'
-  cv_bridge_path = '/home/nvidia/Desktop/ti_ros/devel/lib/python3/dist-packages'
+  cv_bridge_path = '/home/nvidia/Desktop/ti_ros/devel/lib/python3/dist-packages' # change this to your ros workspace folder
   
   if ros_path in sys.path:
       sys.path.remove(ros_path)
