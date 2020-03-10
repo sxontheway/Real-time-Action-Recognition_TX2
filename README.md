@@ -54,7 +54,7 @@ The ROS build-in cv2/cv_bridge are both python2-based but torch needs python3. T
 ### Model training
 The model is trained followed the guide of [Action Recognition on the KTH dataset](https://github.com/vkhoi/KTH-Action-Recognition). Note that KTH dataset only covers 6 actions.   
 I use the model `CNN on block of frames + optical flow`. Go to [evaluation directory](./Evaluation) for details.
-* A comment here is that the above scripts will lead high training memory usages, because it loads the dataset when the dataloader class is constructed, rather than gradually fetches the training data by running `\_\_getitem__`.
+* A comment here is that the above scripts will lead high training memory usages, because it loads the dataset when the dataloader class is constructed, rather than gradually fetches the training data by running `__getitem__`.
 
 ### Video capturing
 See: http://petermoran.org/csi-cameras-on-tx2/. This works for the TX2 onboard camera as well as other CSI cameras.
